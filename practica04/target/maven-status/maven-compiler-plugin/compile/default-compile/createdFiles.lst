@@ -1,0 +1,15 @@
+https\t4is_uv_mx\saludos\ModificarResponse.class
+https\t4is_uv_mx\saludos\MostrarRequest.class
+https\t4is_uv_mx\saludos\ObjectFactory.class
+https\t4is_uv_mx\saludos\SaludarResponse.class
+mx\uv\practica04\Configuracion.class
+mx\uv\practica04\EndPoint.class
+https\t4is_uv_mx\saludos\ModificarRequest.class
+https\t4is_uv_mx\saludos\EliminarRequest.class
+mx\uv\practica04\Saludador.class
+mx\uv\practica04\ISaludador.class
+https\t4is_uv_mx\saludos\SaludarRequest.class
+https\t4is_uv_mx\saludos\package-info.class
+https\t4is_uv_mx\saludos\MostrarResponse.class
+https\t4is_uv_mx\saludos\EliminarResponse.class
+mx\uv\practica04\Practica04Application.class

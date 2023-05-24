@@ -1,0 +1,8 @@
+Comandos
+dotnet new web -o practica02
+cd practica02/
+dotnet add package SoapCore
+mkdir Models Services
+touch Services/Mensajes.cs
+touch Services/Operaciones.cs
+dotnet run
